@@ -1,0 +1,6 @@
+{
+  "name": "Studio Élara",
+  "description": "Beleza que conta histórias. Salão de beleza premium com foco em noivas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
